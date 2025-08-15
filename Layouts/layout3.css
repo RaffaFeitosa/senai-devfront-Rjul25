@@ -1,0 +1,10 @@
+.TOPO{
+    width: 100%;
+    background-color: #3750B3;    
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+}
+.LISTA{
+    display: flex;
+}
