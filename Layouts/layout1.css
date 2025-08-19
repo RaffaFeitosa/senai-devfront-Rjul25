@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "inter";
+}
+
+
+
+.cabecalho{
+    width: 100%;
+    height: 71px;
+    background-color: #3750B3;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-left: 120px;
+    padding-right: 120px;
+    
+    
+}
+
+.logo{
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.menu a{
+
+    color: white;
+    text-decoration: none;
+    margin-left: 18px;
+}
+
+.conteudo {
+
+    padding-left: 120px;
+    padding-right: 120px;
+
+}
+
+.fundo {
+
+    background-image: url(./Assents/imgs/20171019thor-ragnarok-001.jpg);
+    width: 100%;
+    height: 427px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+
+}
+
+.titulo {
+
+    font-size: 64px;
+    font-weight: normal;
+
+}
+
+.descricao{
+
+    font-size: 32px;
+
+
+}
